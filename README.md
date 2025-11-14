@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-red?style=for-the-badge&logo=github" alt="Status">
-  <img src="https://img.shields.io/badge/ENTUSIASTA-red?style=for-the-badge&logo=fire&logoColor=white" alt="Entusiasta">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-red?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio">
-</p>
-
 <h1 align="center">
   <span style="background: linear-gradient(to right, #ff4b4b, #ff0000); -webkit-background-clip: text; color: transparent;">
   Lucas Medice | TheB4TM4N
@@ -13,79 +7,40 @@
 
 ---
 
-## 🔴 Sobre mim
-Sou **Lucas Medice**, um **entusiasta de tecnologia CyberSecurity**.  
+## Sobre mim
+Sou **Lucas Medice**, um **entusiasta de CyberSecurity**.  
 Adoro explorar sistemas, redes e criar scripts que tornam a segurança mais eficiente.
 
-- 💡 Sempre aprendendo: Tecnologias, tendências, AI, Cyber...
-- 🔴 Technologic Resilience: Adaptação e resiliência  
-- 🛠️ Create and Destroy: Criando soluções e ferramentas e explorando todas as áreas da tecnologia
+- [+] Sempre aprendendo: Tecnologias, tendências, AI, Cyber  
+- [+] Technologic Resilience: Adaptação e resiliência  
+- [+] Create and Destroy: Criando soluções e ferramentas explorando todas as áreas da tecnologia
 
 ---
 
-## 🚀 Áreas de atuação
+## Skills / Tecnologias
+
+| Área               | Ferramentas / Tecnologias |
+|-------------------|--------------------------|
+| CyberSecurity      | Segurança Ofensiva, Segurança Defensiva, Threat Intel, Forensics |
+| Coding             | Scripting, Desenvolvimento de Software |
+| Redes              | Protocolos, Arquitetura, Dispositivos |
+| OS                 | Linux, Windows |
+| Tecnologias        | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+
+
+
+---
+
+---
+
+## GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/Red%20Team-red?style=for-the-badge&logo=hackthebox&logoColor=white">
-  <img src="https://img.shields.io/badge/Blue%20Team-red?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Automação-red?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/OSINT-red?style=for-the-badge&logo=information&logoColor=white">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucas-medice&show_icons=true&hide_border=true&theme=radical" alt="Lucas Medice GitHub Stats" />
 </p>
 
 ---
 
-## 💻 Habilidades & Ferramentas
-
-### Linguagens
-<p>
-Python 🟥🟥🟥🟥⬜ &nbsp;&nbsp; JavaScript 🟥🟥🟥⬜⬜ &nbsp;&nbsp; Shell 🟥🟥🟥⬜⬜ &nbsp;&nbsp; C++ 🟥🟥⬜⬜⬜
-</p>
-
-### Ferramentas
-<p>
-Metasploit 🟥🟥🟥⬜⬜ &nbsp;&nbsp; Nmap 🟥🟥🟥🟥⬜ &nbsp;&nbsp; Wireshark 🟥🟥🟥⬜⬜ &nbsp;&nbsp; Burp Suite 🟥🟥🟥⬜⬜
-</p>
-
-### Plataformas
-<p>
-Linux 🟥🟥🟥🟥⬜ &nbsp;&nbsp; Windows 🟥🟥🟥🟥⬜ &nbsp;&nbsp; Android 🟥🟥⬜⬜⬜
-</p>
-
----
-
-## 🌟 Projetos em destaque
-<p align="center">
-  <img src="https://img.shields.io/badge/INVIOKM-red?style=for-the-badge&logo=javascript&logoColor=white">  
-  <img src="https://img.shields.io/badge/B4T-Crawler-red?style=for-the-badge&logo=python&logoColor=white">  
-  <img src="https://img.shields.io/badge/CTFs-Labs-red?style=for-the-badge&logo=linux&logoColor=white">
-</p>
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|------------|
-| **INVIOKM-Prototype** | Sistema web de controle de quilometragem | JavaScript, UI/UX |
-| **B4T-Crawler** | Automação para coleta e análise de dados | Python, Scraping |
-| **CTFs & Labs** | Desafios TryHackMe e HackTheBox | Linux, Windows, Redes |
-
-> Para ver todos os projetos, visite: [Portfólio](https://lucas-medice.github.io/portifolio-v2)
-
----
-
-## 🎓 Formação & Certificações
-<p align="center">
-  <img src="https://img.shields.io/badge/FIAP-Defesa%20Cibernética-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CEPPAT-Técnico-red?style=for-the-badge">
-</p>
-
----
-
-## 📬 Contato
-<p align="center">
-  <a href="mailto:contato.lucasmedice@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lucas-medice"><img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://lucas-medice.github.io/portifolio-v2"><img src="https://img.shields.io/badge/Portfólio-red?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  <i>“Um entusiasta nunca para de explorar. A curiosidade é a chave da segurança.”</i>
-</p>
+## Contato
+- Portfolio: [https://lucas-medice.github.io/portifolio-v2](https://lucas-medice.github.io/portifolio-v2)  
+- LinkedIn: [SEU LINKEDIN](https://linkedin.com/in/lucas-medice)  
+- Email: contato.lucasmedice@gmail.com
