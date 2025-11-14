@@ -1,3 +1,5 @@
+![B4TM4N Gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVuMnc4d2VrMHY0OTBuczZodWkwczlmeG9mODBrMDY3OThhcHZ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O30TjFaq1uPLwBOlky/giphy.gif)
+
 <h1 align="center">
   <span style="background: linear-gradient(to right, #ff4b4b, #ff0000); -webkit-background-clip: text; color: transparent;">
   Lucas Medice | TheB4TM4N
