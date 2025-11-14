@@ -1,11 +1,3 @@
-⠀⠀⠀⠀⣀⣤⣤⣶⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⣶⣦⣤⣀⠀⠀⠀⠀⠀
-⢀⣴⣶⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⣧⣼⠀⠀⠀⠀⣀⣴⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀
-⠀⠀⠀⠈⠉⠛⣿⣿⣿⣿⣿⣷⣦⣀⢸⣿⣿⡇⣀⣤⣿⣯⣿⣿⣿⣿⠟⠋⠉⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠸⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠿⠋⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿⣿⣿⣿⠿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
-
 <h1 align="center">
   <span style="background: linear-gradient(to right, #ff4b4b, #ff0000); -webkit-background-clip: text; color: transparent;">
   Lucas Medice | TheB4TM4N
@@ -19,7 +11,6 @@
 Sou **Lucas Medice**, um **entusiasta de CyberSecurity**.  
 Adoro explorar sistemas, redes e criar scripts que tornam a segurança mais eficiente.
 
--
 - [+] Sempre aprendendo: Tecnologias, tendências, AI, Cyber  
 - [+] Technologic Resilience: Adaptação e resiliência  
 - [+] Create and Destroy: Criando soluções e ferramentas explorando todas as áreas da tecnologia
